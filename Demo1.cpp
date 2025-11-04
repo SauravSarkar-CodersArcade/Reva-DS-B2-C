@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    
     double num1, num2;
 
     cout << "Enter first number: ";

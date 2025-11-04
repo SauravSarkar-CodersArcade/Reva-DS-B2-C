@@ -3,6 +3,7 @@
 int main(){
     add(1,2);
     // 1, 2 -> arguments
+    char name[20] = "Saurav";
     return 0;
 }
 // Function Definition
